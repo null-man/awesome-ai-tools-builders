@@ -210,6 +210,9 @@ What we would use this month, updated 2026-09-03. Full version with links: [king
 - **[Airpost](https://airpost.ai)** — AI video ad creation. Best for Marketers running video ads. [[details](https://kinged.lol/t/airpost.ai)]
 - **[Basedlabs AI](https://basedlabs.ai)** — Long form AI video generation. Best for AI video creators. [[details](https://kinged.lol/t/basedlabs.ai)]
 - **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent text/image-to-video via Grok Imagine API (not official xAI/X). Best for Creators wanting free trial video credits.
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
 - **[Fastlane AI](https://usefastlane.ai)** — AI short form content creation. Best for Short form content creators. [[details](https://kinged.lol/t/usefastlane.ai)]
 - **[Google Flow](https://labs.google)** — AI filmmaking studio for long videos. Best for AI filmmakers and creators. [[details](https://kinged.lol/t/labs.google)]
 - **[Hailuo AI](https://hailuoai.video)** — AI video generation from prompts. Best for creators and marketers. [[details](https://kinged.lol/t/hailuoai.video)]
